@@ -6,7 +6,7 @@ import csv
 def create_csv():
     with open('top_1000.csv', 'w') as csvfile:
         # initialize csv headers
-        fieldnames = ['Movie Title', 'Year', 'Director', 'Cast', 'IMDB Rating']
+        fieldnames = ['title', 'year', 'director', 'cast', 'imdb_rating']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         # scrape page 1-20
@@ -27,5 +27,5 @@ def create_csv():
                 cast = people[people.find(')')+2:].strip()
                 year = info.find('span', class_ = 'lister-item-year text-muted unbold').text[1:-1]
                 rating = container.strong.text.strip()
-                writer.writerow({'Movie Title': title, 'Year': year, 'Director': director, 'Cast': cast, 'IMDB Rating': rating})
+                writer.writerow({'title': title, 'year': year, 'director': director, 'cast': cast, 'imdb_rating': rating})
 #create_csv()

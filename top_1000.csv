@@ -1,4 +1,4 @@
-Movie Title,Year,Director,Cast,IMDB Rating
+title,year,director,cast,imdb_rating
 The Shawshank Redemption,1994,Frank Darabont,"Tim Robbins, Morgan Freeman",9.3
 The Godfather,1972,Francis Ford Coppola,"Marlon Brando, Al Pacino",9.2
 The Dark Knight,2008,Christopher Nolan,"Christian Bale, Heath Ledger",9
@@ -455,7 +455,6 @@ A Night at the Opera,1935,Sam Wood,"Groucho Marx, Chico Marx",8
 Central Station,1998,Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira",8
 No Man's Land,I) (2001,Danis Tanovic,"Branko Djuric, Rene Bitorajac",8
 G.O.R.A.,2004,Ömer Faruk Sorak,"Cem Yilmaz, Rasim Öztekin",8
-The Greatest Showman,2017,Michael Gracey,"Hugh Jackman, Michelle Williams",7.9
 Thor: Ragnarok,2017,Taika Waititi,"Chris Hemsworth, Tom Hiddleston",7.9
 E.T. the Extra-Terrestrial,1982,Steven Spielberg,"Henry Thomas, Drew Barrymore",7.9
 Iron Man,2008,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow",7.9
@@ -557,6 +556,7 @@ The Edge of Heaven,2007,Fatih Akin,"Baki Davrak, Gürsoy Gemec",7.9
 Ninja Scroll,1993,Yoshiaki Kawajiri,"Kôichi Yamadera, Emi Shinohara",7.9
 Veer-Zaara,2004,Yash Chopra,"Shah Rukh Khan, Preity Zinta",7.9
 Black Panther,2018,Ryan Coogler,"Chadwick Boseman, Michael B. Jordan",7.8
+The Greatest Showman,2017,Michael Gracey,"Hugh Jackman, Michelle Williams",7.8
 Wind River,2017,Taylor Sheridan,"Kelsey Asbille, Jeremy Renner",7.8
 Captain America: Civil War,2016,Anthony Russo,"Chris Evans, Robert Downey Jr.",7.8
 Titanic,1997,James Cameron,"Leonardo DiCaprio, Kate Winslet",7.8
