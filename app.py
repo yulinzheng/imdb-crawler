@@ -59,13 +59,19 @@ def find_director(director):
 # endpoint to query by cast
 @app.route('/cast=<cast>/')
 def find_cast(cast):
+    # need FIND_IN_SET alternative
     pass
 
 # endpoint to query by rating
 @app.route('/rating>=<rating>/')
 def find_rating(rating):
-    pass
-
+    conn = sqlite3.connect('top_1000.db')
+    c = conn.cursor()
+    c.execute('SELECT * FROM {} WHERE {}>="{}"'.\
+            format(tb_name, col_imdb_rating, rating))
+    rows = c.fetchall()
+    c.close()
+    return jsonify(rows)
 
 if __name__=='__main__':
     app.run(debug=True, use_reloader=True)
