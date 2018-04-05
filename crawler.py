@@ -1,7 +1,6 @@
 from requests import get
 from bs4 import BeautifulSoup
-import pandas as pd
-import csv
+import csv, sqlite3, re
 
 def create_csv():
     with open('top_1000.csv', 'w') as csvfile:
@@ -25,7 +24,22 @@ def create_csv():
                 people = info['title']
                 director = people[:people.find('(')].strip()
                 cast = people[people.find(')')+2:].strip()
-                year = info.find('span', class_ = 'lister-item-year text-muted unbold').text[1:-1]
+                year = info.find('span', class_ = 'lister-item-year text-muted unbold').text
+                match = re.search('([0-9]+)', year)
+                year = year[match.start() : match.end()]
                 rating = container.strong.text.strip()
                 writer.writerow({'title': title, 'year': year, 'director': director, 'cast': cast, 'imdb_rating': rating})
-#create_csv()
+
+def create_db():
+    create_csv()
+    conn = sqlite3.connect('top_1000.db')
+    c = conn.cursor()
+    c.execute('CREATE TABLE top_1000 (title, year, director, cast, imdb_rating);')
+    with open('top_1000.csv', 'r') as csv_file:
+        dr = csv.DictReader(csv_file)
+        to_db = [(i['title'], i['year'], i['director'], i['cast'], i['imdb_rating']) for i in dr]
+    c.executemany('INSERT INTO top_1000 (title, year, director, cast, imdb_rating) VALUES (?, ?, ?, ?, ?);', to_db)
+    conn.commit()
+    conn.close()
+
+create_db()

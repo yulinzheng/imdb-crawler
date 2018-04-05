@@ -31,7 +31,7 @@ Dangal,2016,Nitesh Tiwari,"Aamir Khan, Sakshi Tanwar",8.6
 Life Is Beautiful,1997,Roberto Benigni,"Roberto Benigni, Nicoletta Braschi",8.6
 It's a Wonderful Life,1946,Frank Capra,"James Stewart, Donna Reed",8.6
 City Lights,1931,Charles Chaplin,"Charles Chaplin, Virginia Cherrill",8.6
-Coco,I) (2017,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal",8.5
+Coco,2017,Lee Unkrich,"Anthony Gonzalez, Gael García Bernal",8.5
 The Lion King,1994,Roger Allers,"Matthew Broderick, Jeremy Irons",8.5
 The Green Mile,1999,Frank Darabont,"Tom Hanks, Michael Clarke Duncan",8.5
 Gladiator,2000,Ridley Scott,"Russell Crowe, Joaquin Phoenix",8.5
@@ -132,8 +132,8 @@ Bhaag Milkha Bhaag,2013,Rakeysh Omprakash Mehra,"Farhan Akhtar, Sonam Kapoor",8.
 The Wolf of Wall Street,2013,Martin Scorsese,"Leonardo DiCaprio, Jonah Hill",8.2
 Blade Runner,1982,Ridley Scott,"Harrison Ford, Rutger Hauer",8.2
 Hacksaw Ridge,2016,Mel Gibson,"Andrew Garfield, Sam Worthington",8.2
-Room,I) (2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",8.2
-Inside Out,I) (2015,Pete Docter,"Amy Poehler, Bill Hader",8.2
+Room,2015,Lenny Abrahamson,"Brie Larson, Jacob Tremblay",8.2
+Inside Out,2015,Pete Docter,"Amy Poehler, Bill Hader",8.2
 Pan's Labyrinth,2006,Guillermo del Toro,"Ivana Baquero, Ariadna Gil",8.2
 Die Hard,1988,John McTiernan,"Bruce Willis, Alan Rickman",8.2
 The Big Lebowski,1998,Joel Coen,"Jeff Bridges, John Goodman",8.2
@@ -179,7 +179,7 @@ Kis Uykusu,2014,Nuri Bilge Ceylan,"Haluk Bilginer, Melisa Sözen",8.2
 Sunrise,1927,F.W. Murnau,"George O'Brien, Janet Gaynor",8.2
 The Wages of Fear,1953,Henri-Georges Clouzot,"Yves Montand, Charles Vanel",8.2
 Tokyo Story,1953,Yasujirô Ozu,"Chishû Ryû, Chieko Higashiyama",8.2
-Pink,III) (2016,Aniruddha Roy Chowdhury,"Tapsee Pannu, Kirti Kulhari",8.2
+Pink,2016,Aniruddha Roy Chowdhury,"Tapsee Pannu, Kirti Kulhari",8.2
 The General,1926,Clyde Bruckman,"Buster Keaton, Marion Mack",8.2
 Dil Chahta Hai,2001,Farhan Akhtar,"Aamir Khan, Saif Ali Khan",8.2
 Kahaani,2012,Sujoy Ghosh,"Vidya Balan, Parambrata Chatterjee",8.2
@@ -205,7 +205,7 @@ Mad Max: Fury Road,2015,George Miller,"Tom Hardy, Charlize Theron",8.1
 Gone Girl,2014,David Fincher,"Ben Affleck, Rosamund Pike",8.1
 Prisoners,2013,Denis Villeneuve,"Hugh Jackman, Jake Gyllenhaal",8.1
 The Grand Budapest Hotel,2014,Wes Anderson,"Ralph Fiennes, F. Murray Abraham",8.1
-La La Land,I) (2016,Damien Chazelle,"Ryan Gosling, Emma Stone",8.1
+La La Land,2016,Damien Chazelle,"Ryan Gosling, Emma Stone",8.1
 Stand by Me,1986,Rob Reiner,"Wil Wheaton, River Phoenix",8.1
 Harry Potter and the Deathly Hallows: Part 2,2011,David Yates,"Daniel Radcliffe, Emma Watson",8.1
 Jurassic Park,1993,Steven Spielberg,"Sam Neill, Laura Dern",8.1
@@ -213,7 +213,7 @@ The Help,2011,Tate Taylor,"Emma Stone, Viola Davis",8.1
 No Country for Old Men,2007,Ethan Coen,"Tommy Lee Jones, Javier Bardem",8.1
 The Princess Bride,1987,Rob Reiner,"Cary Elwes, Mandy Patinkin",8.1
 Fargo,1996,Joel Coen,"William H. Macy, Frances McDormand",8.1
-Spotlight,I) (2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton",8.1
+Spotlight,2015,Tom McCarthy,"Mark Ruffalo, Michael Keaton",8.1
 Kill Bill: Vol. 1,2003,Quentin Tarantino,"Uma Thurman, David Carradine",8.1
 Donnie Darko,2001,Richard Kelly,"Jake Gyllenhaal, Jena Malone",8.1
 There Will Be Blood,2007,Paul Thomas Anderson,"Daniel Day-Lewis, Paul Dano",8.1
@@ -221,7 +221,7 @@ The Thing,1982,John Carpenter,"Kurt Russell, Wilford Brimley",8.1
 Shutter Island,2010,Martin Scorsese,"Leonardo DiCaprio, Emily Mortimer",8.1
 Catch Me If You Can,2002,Steven Spielberg,"Leonardo DiCaprio, Tom Hanks",8.1
 Lion,2016,Garth Davis,"Dev Patel, Nicole Kidman",8.1
-Rush,I) (2013,Ron Howard,"Daniel Brühl, Chris Hemsworth",8.1
+Rush,2013,Ron Howard,"Daniel Brühl, Chris Hemsworth",8.1
 Into the Wild,2007,Sean Penn,"Emile Hirsch, Vince Vaughn",8.1
 Contratiempo,2016,Oriol Paulo,"Mario Casas, Ana Wagener",8.1
 "Monsters, Inc.",2001,Pete Docter,"Billy Crystal, John Goodman",8.1
@@ -264,7 +264,7 @@ What Ever Happened to Baby Jane?,1962,Robert Aldrich,"Bette Davis, Joan Crawford
 8½,1963,Federico Fellini,"Marcello Mastroianni, Anouk Aimée",8.1
 Castle in the Sky,1986,Hayao Miyazaki,"Anna Paquin, James Van Der Beek",8.1
 Amores Perros,2000,Alejandro G. Iñárritu,"Emilio Echevarría, Gael García Bernal",8.1
-Mommy,I) (2014,Xavier Dolan,"Anne Dorval, Antoine Olivier Pilon",8.1
+Mommy,2014,Xavier Dolan,"Anne Dorval, Antoine Olivier Pilon",8.1
 Paper Moon,1973,Peter Bogdanovich,"Ryan O'Neal, Tatum O'Neal",8.1
 Three Colors: Red,1994,Krzysztof Kieslowski,"Irène Jacob, Jean-Louis Trintignant",8.1
 Persona,1966,Ingmar Bergman,"Bibi Andersson, Liv Ullmann",8.1
@@ -316,7 +316,7 @@ Airlift,2016,Raja Menon,"Akshay Kumar, Nimrat Kaur",8.1
 3-Iron,2004,Ki-duk Kim,"Seung-yeon Lee, Hee Jae",8.1
 Barfi!,2012,Anurag Basu,"Ranbir Kapoor, Priyanka Chopra",8.1
 "Spring, Summer, Fall, Winter... and Spring",2003,Ki-duk Kim,"Ki-duk Kim, Yeong-su Oh",8.1
-Baby,I) (2015,Neeraj Pandey,"Akshay Kumar, Danny Denzongpa",8.1
+Baby,2015,Neeraj Pandey,"Akshay Kumar, Danny Denzongpa",8.1
 La Grande Illusion,1937,Jean Renoir,"Jean Gabin, Dita Parlo",8.1
 Kind Hearts and Coronets,1949,Robert Hamer,"Dennis Price, Alec Guinness",8.1
 My Sassy Girl,2001,Jae-young Kwak,"Tae-hyun Cha, Ji-hyun Jun",8.1
@@ -325,7 +325,7 @@ Vizontele,2001,Yilmaz Erdogan,"Yilmaz Erdogan, Demet Akbag",8.1
 Lage Raho Munna Bhai,2006,Rajkumar Hirani,"Sanjay Dutt, Arshad Warsi",8.1
 Ready Player One,2018,Steven Spielberg,"Tye Sheridan, Olivia Cooke",8
 Call Me by Your Name,2017,Luca Guadagnino,"Armie Hammer, Timothée Chalamet",8
-Wonder,I) (2017,Stephen Chbosky,"Jacob Tremblay, Owen Wilson",8
+Wonder,2017,Stephen Chbosky,"Jacob Tremblay, Owen Wilson",8
 Deadpool,2016,Tim Miller,"Ryan Reynolds, Morena Baccarin",8
 Dunkirk,2017,Christopher Nolan,"Fionn Whitehead, Barry Keoghan",8
 Zootopia,2016,Byron Howard,"Ginnifer Goodwin, Jason Bateman",8
@@ -422,7 +422,7 @@ Charade,1963,Stanley Donen,"Cary Grant, Audrey Hepburn",8
 Hannah and Her Sisters,1986,Woody Allen,"Mia Farrow, Dianne Wiest",8
 My Name Is Khan,2010,Karan Johar,"Shah Rukh Khan, Kajol",8
 The Night of the Hunter,1955,Charles Laughton,"Robert Mitchum, Shelley Winters",8
-The Sea Inside,I) (2004,Alejandro Amenábar,"Javier Bardem, Belén Rueda",8
+The Sea Inside,2004,Alejandro Amenábar,"Javier Bardem, Belén Rueda",8
 The Killing,1956,Stanley Kubrick,"Sterling Hayden, Coleen Gray",8
 The Diving Bell and the Butterfly,2007,Julian Schnabel,"Mathieu Amalric, Emmanuelle Seigner",8
 The Adventures of Robin Hood,1938,Michael Curtiz,"Errol Flynn, Olivia de Havilland",8
@@ -453,12 +453,12 @@ Duck Soup,1933,Leo McCarey,"Groucho Marx, Harpo Marx",8
 Special 26,2013,Neeraj Pandey,"Akshay Kumar, Anupam Kher",8
 A Night at the Opera,1935,Sam Wood,"Groucho Marx, Chico Marx",8
 Central Station,1998,Walter Salles,"Fernanda Montenegro, Vinícius de Oliveira",8
-No Man's Land,I) (2001,Danis Tanovic,"Branko Djuric, Rene Bitorajac",8
+No Man's Land,2001,Danis Tanovic,"Branko Djuric, Rene Bitorajac",8
 G.O.R.A.,2004,Ömer Faruk Sorak,"Cem Yilmaz, Rasim Öztekin",8
 Thor: Ragnarok,2017,Taika Waititi,"Chris Hemsworth, Tom Hiddleston",7.9
 E.T. the Extra-Terrestrial,1982,Steven Spielberg,"Henry Thomas, Drew Barrymore",7.9
 Iron Man,2008,Jon Favreau,"Robert Downey Jr., Gwyneth Paltrow",7.9
-Arrival,II) (2016,Denis Villeneuve,"Amy Adams, Jeremy Renner",7.9
+Arrival,2016,Denis Villeneuve,"Amy Adams, Jeremy Renner",7.9
 The Breakfast Club,1985,John Hughes,"Emilio Estevez, Judd Nelson",7.9
 The Notebook,2004,Nick Cassavetes,"Gena Rowlands, James Garner",7.9
 The Hobbit: An Unexpected Journey,2012,Peter Jackson,"Martin Freeman, Ian McKellen",7.9
@@ -483,7 +483,7 @@ Serenity,2005,Joss Whedon,"Nathan Fillion, Gina Torres",7.9
 Mr. Nobody,2009,Jaco Van Dormael,"Jared Leto, Sarah Polley",7.9
 Spartacus,1960,Stanley Kubrick,"Kirk Douglas, Laurence Olivier",7.9
 The Blues Brothers,1980,John Landis,"John Belushi, Dan Aykroyd",7.9
-Boyhood,I) (2014,Richard Linklater,"Ellar Coltrane, Patricia Arquette",7.9
+Boyhood,2014,Richard Linklater,"Ellar Coltrane, Patricia Arquette",7.9
 The Bourne Identity,2002,Doug Liman,"Franka Potente, Matt Damon",7.9
 Edward Scissorhands,1990,Tim Burton,"Johnny Depp, Winona Ryder",7.9
 Life of Pi,2012,Ang Lee,"Suraj Sharma, Irrfan Khan",7.9
@@ -502,7 +502,7 @@ The Wrestler,2008,Darren Aronofsky,"Mickey Rourke, Marisa Tomei",7.9
 The Quiet Man,1952,John Ford,"John Wayne, Maureen O'Hara",7.9
 "Crouching Tiger, Hidden Dragon",2000,Ang Lee,"Yun-Fat Chow, Michelle Yeoh",7.9
 Let the Right One In,2008,Tomas Alfredson,"Kåre Hedebrant, Lina Leandersson",7.9
-The Artist,I) (2011,Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo",7.9
+The Artist,2011,Michel Hazanavicius,"Jean Dujardin, Bérénice Bejo",7.9
 Do the Right Thing,1989,Spike Lee,"Danny Aiello, Ossie Davis",7.9
 Glory,1989,Edward Zwick,"Matthew Broderick, Denzel Washington",7.9
 Ed Wood,1994,Tim Burton,"Johnny Depp, Martin Landau",7.9
@@ -574,20 +574,20 @@ Pride & Prejudice,2005,Joe Wright,"Keira Knightley, Matthew Macfadyen",7.8
 Harry Potter and the Prisoner of Azkaban,2004,Alfonso Cuarón,"Daniel Radcliffe, Emma Watson",7.8
 Ferris Bueller's Day Off,1986,John Hughes,"Matthew Broderick, Alan Ruck",7.8
 Tangled,2010,Nathan Greno,"Mandy Moore, Zachary Levi",7.8
-About Time,I) (2013,Richard Curtis,"Domhnall Gleeson, Rachel McAdams",7.8
+About Time,2013,Richard Curtis,"Domhnall Gleeson, Rachel McAdams",7.8
 Ocean's Eleven,2001,Steven Soderbergh,"George Clooney, Brad Pitt",7.8
 Manchester by the Sea,2016,Kenneth Lonergan,"Casey Affleck, Michelle Williams",7.8
 Skyfall,2012,Sam Mendes,"Daniel Craig, Javier Bardem",7.8
 Big Hero 6,2014,Don Hall,"Ryan Potter, Scott Adsit",7.8
 The Big Short,2015,Adam McKay,"Christian Bale, Steve Carell",7.8
-Drive,I) (2011,Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan",7.8
+Drive,2011,Nicolas Winding Refn,"Ryan Gosling, Carey Mulligan",7.8
 The Girl with the Dragon Tattoo,2011,David Fincher,"Daniel Craig, Rooney Mara",7.8
 The Sandlot,1993,David Mickey Evans,"Tom Guiry, Mike Vitar",7.8
 Gravity,2013,Alfonso Cuarón,"Sandra Bullock, George Clooney",7.8
 Silver Linings Playbook,2012,David O. Russell,"Bradley Cooper, Jennifer Lawrence",7.8
 Predator,1987,John McTiernan,"Arnold Schwarzenegger, Carl Weathers",7.8
 Blue Is the Warmest Color,2013,Abdellatif Kechiche,"Léa Seydoux, Adèle Exarchopoulos",7.8
-Crash,I) (2004,Paul Haggis,"Don Cheadle, Sandra Bullock",7.8
+Crash,2004,Paul Haggis,"Don Cheadle, Sandra Bullock",7.8
 X: First Class,2011,Matthew Vaughn,"James McAvoy, Michael Fassbender",7.8
 The Curious Case of Benjamin Button,2008,David Fincher,"Brad Pitt, Cate Blanchett",7.8
 Mary Poppins,1964,Robert Stevenson,"Julie Andrews, Dick Van Dyke",7.8
@@ -596,7 +596,7 @@ Apocalypto,2006,Mel Gibson,"Gerardo Taracena, Raoul Max Trujillo",7.8
 The Lego Movie,2014,Phil Lord,"Chris Pratt, Will Ferrell",7.8
 The Fault in Our Stars,2014,Josh Boone,"Shailene Woodley, Ansel Elgort",7.8
 Willy Wonka & the Chocolate Factory,1971,Mel Stuart,"Gene Wilder, Jack Albertson",7.8
-Taken,I) (2008,Pierre Morel,"Liam Neeson, Maggie Grace",7.8
+Taken,2008,Pierre Morel,"Liam Neeson, Maggie Grace",7.8
 Star Trek: Into Darkness,2013,J.J. Abrams,"Chris Pine, Zachary Quinto",7.8
 Cast Away,2000,Robert Zemeckis,"Tom Hanks, Helen Hunt",7.8
 Lost in Translation,2003,Sofia Coppola,"Bill Murray, Scarlett Johansson",7.8
@@ -624,7 +624,7 @@ The Magnificent Seven,1960,John Sturges,"Yul Brynner, Steve McQueen",7.8
 The Count of Monte Cristo,2002,Kevin Reynolds,"Jim Caviezel, Guy Pearce",7.8
 Captain Phillips,2013,Paul Greengrass,"Tom Hanks, Barkhad Abdi",7.8
 What's Eating Gilbert Grape,1993,Lasse Hallström,"Johnny Depp, Leonardo DiCaprio",7.8
-The Fighter,I) (2010,David O. Russell,"Mark Wahlberg, Christian Bale",7.8
+The Fighter,2010,David O. Russell,"Mark Wahlberg, Christian Bale",7.8
 Serpico,1973,Sidney Lumet,"Al Pacino, John Randolph",7.8
 "O Brother, Where Art Thou?",2000,Joel Coen,"George Clooney, John Turturro",7.8
 The Girl with the Dragon Tattoo,2009,Niels Arden Oplev,"Michael Nyqvist, Noomi Rapace",7.8
@@ -658,7 +658,7 @@ Rebel Without a Cause,1955,Nicholas Ray,"James Dean, Natalie Wood",7.8
 Miller's Crossing,1990,Joel Coen,"Gabriel Byrne, Albert Finney",7.8
 The Day of the Jackal,1973,Fred Zinnemann,"Edward Fox, Terence Alexander",7.8
 Hamlet,1996,Kenneth Branagh,"Kenneth Branagh, Julie Christie",7.8
-Pride,I) (2014,Matthew Warchus,"Bill Nighy, Imelda Staunton",7.8
+Pride,2014,Matthew Warchus,"Bill Nighy, Imelda Staunton",7.8
 Kramer vs. Kramer,1979,Robert Benton,"Dustin Hoffman, Meryl Streep",7.8
 Cabaret,1972,Bob Fosse,"Liza Minnelli, Michael York",7.8
 The Verdict,1982,Sidney Lumet,"Paul Newman, Charlotte Rampling",7.8
@@ -707,7 +707,7 @@ Kokuhaku,2010,Tetsuya Nakashima,"Takako Matsu, Yoshino Kimura",7.8
 Zelig,1983,Woody Allen,"Woody Allen, Mia Farrow",7.8
 Vicky Donor,2012,Shoojit Sircar,"Ayushmann Khurrana, Yami Gautam",7.8
 Phantom Thread,2017,Paul Thomas Anderson,"Vicky Krieps, Daniel Day-Lewis",7.7
-Get Out,I) (2017,Jordan Peele,"Daniel Kaluuya, Allison Williams",7.7
+Get Out,2017,Jordan Peele,"Daniel Kaluuya, Allison Williams",7.7
 Guardians of the Galaxy Vol. 2,2017,James Gunn,"Chris Pratt, Zoe Saldana",7.7
 Baby Driver,2017,Edgar Wright,"Ansel Elgort, Jon Bernthal",7.7
 The Florida Project,2017,Sean Baker,"Brooklynn Prince, Bria Vinaite",7.7
@@ -768,7 +768,7 @@ Philadelphia,1993,Jonathan Demme,"Tom Hanks, Denzel Washington",7.7
 Billy Elliot,2000,Stephen Daldry,"Jamie Bell, Julie Walters",7.7
 Dark City,1998,Alex Proyas,"Rufus Sewell, Kiefer Sutherland",7.7
 Fried Green Tomatoes,1991,Jon Avnet,"Kathy Bates, Jessica Tandy",7.7
-Flipped,I) (2010,Rob Reiner,"Madeline Carroll, Callan McAuliffe",7.7
+Flipped,2010,Rob Reiner,"Madeline Carroll, Callan McAuliffe",7.7
 Finding Neverland,2004,Marc Forster,"Johnny Depp, Kate Winslet",7.7
 Adaptation.,2002,Spike Jonze,"Nicolas Cage, Meryl Streep",7.7
 Goldfinger,1964,Guy Hamilton,"Sean Connery, Gert Fröbe",7.7
@@ -782,10 +782,10 @@ Enter the Dragon,1973,Robert Clouse,"Bruce Lee, John Saxon",7.7
 The Last King of Scotland,2006,Kevin Macdonald,"James McAvoy, Forest Whitaker",7.7
 Blood Simple.,1984,Joel Coen,"John Getz, Frances McDormand",7.7
 Sabrina,1954,Billy Wilder,"Humphrey Bogart, Audrey Hepburn",7.7
-Victoria,II) (2015,Sebastian Schipper,"Laia Costa, Frederick Lau",7.7
+Victoria,2015,Sebastian Schipper,"Laia Costa, Frederick Lau",7.7
 Barton Fink,1991,Joel Coen,"John Turturro, John Goodman",7.7
 Malcolm X,1992,Spike Lee,"Denzel Washington, Angela Bassett",7.7
-Ray,I) (2004,Taylor Hackford,"Jamie Foxx, Regina King",7.7
+Ray,2004,Taylor Hackford,"Jamie Foxx, Regina King",7.7
 Giant,1956,George Stevens,"Elizabeth Taylor, Rock Hudson",7.7
 Star Trek II: The Wrath of Khan,1982,Nicholas Meyer,"William Shatner, Leonard Nimoy",7.7
 A Man Called Ove,2015,Hannes Holm,"Rolf Lassgård, Bahar Pars",7.7
@@ -821,7 +821,7 @@ Sympathy for Mr. Vengeance,2002,Chan-wook Park,"Kang-ho Song, Ha-kyun Shin",7.7
 Delicatessen,1991,Marc Caro,"Marie-Laure Dougnac, Dominique Pinon",7.7
 Celda 211,2009,Daniel Monzón,"Luis Tosar, Alberto Ammann",7.7
 The Experiment,2001,Oliver Hirschbiegel,"Moritz Bleibtreu, Christian Berkel",7.7
-The Visitor,I) (2007,Tom McCarthy,"Richard Jenkins, Haaz Sleiman",7.7
+The Visitor,2007,Tom McCarthy,"Richard Jenkins, Haaz Sleiman",7.7
 The Purple Rose of Cairo,1985,Woody Allen,"Mia Farrow, Jeff Daniels",7.7
 The Red Violin,1998,François Girard,"Carlo Cecchi, Jean-Luc Bideau",7.7
 A Hard Day's Night,1964,Richard Lester,"John Lennon, Paul McCartney",7.7
@@ -836,7 +836,7 @@ The Barbarian Invasions,2003,Denys Arcand,"Rémy Girard, Dorothée Berryman",7.7
 Lady Bird,2017,Greta Gerwig,"Saoirse Ronan, Laurie Metcalf",7.6
 The Disaster Artist,2017,James Franco,"James Franco, Dave Franco",7.6
 Harry Potter and the Sorcerer's Stone,2001,Chris Columbus,"Daniel Radcliffe, Rupert Grint",7.6
-Moana,I) (2016,Ron Clements,"Auli'i Cravalho, Dwayne Johnson",7.6
+Moana,2016,Ron Clements,"Auli'i Cravalho, Dwayne Johnson",7.6
 Sicario,2015,Denis Villeneuve,"Emily Blunt, Josh Brolin",7.6
 The Big Sick,2017,Michael Showalter,"Kumail Nanjiani, Zoe Kazan",7.6
 Fury,2014,David Ayer,"Brad Pitt, Shia LaBeouf",7.6
@@ -846,9 +846,9 @@ Bridge of Spies,2015,Steven Spielberg,"Tom Hanks, Mark Rylance",7.6
 Superbad,2007,Greg Mottola,"Michael Cera, Jonah Hill",7.6
 What We Do in the Shadows,2014,Jemaine Clement,"Jemaine Clement, Taika Waititi",7.6
 Gifted,2017,Marc Webb,"Chris Evans, Mckenna Grace",7.6
-Apollo 13,I) (1995,Ron Howard,"Tom Hanks, Bill Paxton",7.6
+Apollo 13,1995,Ron Howard,"Tom Hanks, Bill Paxton",7.6
 Creed,2015,Ryan Coogler,"Michael B. Jordan, Sylvester Stallone",7.6
-Hell or High Water,II) (2016,David Mackenzie,"Chris Pine, Ben Foster",7.6
+Hell or High Water,2016,David Mackenzie,"Chris Pine, Ben Foster",7.6
 Sherlock Holmes,2009,Guy Ritchie,"Robert Downey Jr., Jude Law",7.6
 The Royal Tenenbaums,2001,Wes Anderson,"Gene Hackman, Gwyneth Paltrow",7.6
 West Side Story,1961,Jerome Robbins,"Natalie Wood, George Chakiris",7.6
@@ -893,7 +893,7 @@ Traffic,2000,Steven Soderbergh,"Michael Douglas, Benicio Del Toro",7.6
 Sleepers,1996,Barry Levinson,"Robert De Niro, Kevin Bacon",7.6
 Leaving Las Vegas,1995,Mike Figgis,"Nicolas Cage, Elisabeth Shue",7.6
 Rise of the Planet of the Apes,2011,Rupert Wyatt,"James Franco, Andy Serkis",7.6
-The Jungle Book,I) (1967,Wolfgang Reitherman,"Phil Harris, Sebastian Cabot",7.6
+The Jungle Book,1967,Wolfgang Reitherman,"Phil Harris, Sebastian Cabot",7.6
 The Crow,1994,Alex Proyas,"Brandon Lee, Michael Wincott",7.6
 The Body,2012,Oriol Paulo,"José Coronado, Hugo Silva",7.6
 The Piano,1993,Jane Campion,"Holly Hunter, Harvey Keitel",7.6
@@ -905,7 +905,7 @@ Escape from Alcatraz,1979,Don Siegel,"Clint Eastwood, Patrick McGoohan",7.6
 127 Hours,2010,Danny Boyle,"James Franco, Amber Tamblyn",7.6
 Tucker and Dale vs Evil,2010,Eli Craig,"Tyler Labine, Alan Tudyk",7.6
 The Abyss,1989,James Cameron,"Ed Harris, Mary Elizabeth Mastrantonio",7.6
-Milk,I) (2008,Gus Van Sant,"Sean Penn, Josh Brolin",7.6
+Milk,2008,Gus Van Sant,"Sean Penn, Josh Brolin",7.6
 Die Hard with a Vengeance,1995,John McTiernan,"Bruce Willis, Jeremy Irons",7.6
 Army of Darkness,1992,Sam Raimi,"Bruce Campbell, Embeth Davidtz",7.6
 A Fish Called Wanda,1988,Charles Crichton,"John Cleese, Jamie Lee Curtis",7.6
@@ -956,7 +956,7 @@ The Great Debaters,2007,Denzel Washington,"Denzel Washington, Forest Whitaker",7
 The Secret of NIMH,1982,Don Bluth,"Elizabeth Hartman, Derek Jacobi",7.6
 The Kite Runner,2007,Marc Forster,"Khalid Abdalla, Ahmad Khan Mahmoodzada",7.6
 The Meaning of Life,1983,Terry Jones,"John Cleese, Terry Gilliam",7.6
-Volver,I) (2006,Pedro Almodóvar,"Penélope Cruz, Carmen Maura",7.6
+Volver,2006,Pedro Almodóvar,"Penélope Cruz, Carmen Maura",7.6
 The Time Machine,1960,George Pal,"Rod Taylor, Alan Young",7.6
 United 93,2006,Paul Greengrass,"David Alan Basche, Olivia Thirlby",7.6
 Little Big Man,1970,Arthur Penn,"Dustin Hoffman, Faye Dunaway",7.6
@@ -967,7 +967,7 @@ Whale Rider,2002,Niki Caro,"Keisha Castle-Hughes, Rawiri Paratene",7.6
 The Hurricane,1999,Norman Jewison,"Denzel Washington, Vicellous Shannon",7.6
 The City of Lost Children,1995,Marc Caro,"Ron Perlman, Daniel Emilfork",7.6
 Radio Days,1987,Woody Allen,"Mia Farrow, Dianne Wiest",7.6
-Disconnect,I) (2012,Henry Alex Rubin,"Jason Bateman, Jonah Bobo",7.6
+Disconnect,2012,Henry Alex Rubin,"Jason Bateman, Jonah Bobo",7.6
 Lady Vengeance,2005,Chan-wook Park,"Yeong-ae Lee, Min-sik Choi",7.6
 House of Flying Daggers,2004,Yimou Zhang,"Ziyi Zhang, Takeshi Kaneshiro",7.6
 Picnic at Hanging Rock,1975,Peter Weir,"Rachel Roberts, Anne-Louise Lambert",7.6
