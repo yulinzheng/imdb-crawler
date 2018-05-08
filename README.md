@@ -14,10 +14,10 @@ python3 crawler.py
 ```
 To test API responses, run `app.py` and visit `localhost:5000` in your web browser.
 Try query the database with
-* full/partial titles: `localhost:5000/title=?`
-* years: `localhost:5000/year=?`
-* director's full/partial names: `localhost:5000/director=?`
-* IMDB ratings: `localhost:5000/rating>=?`
+* full/partial title: `localhost:5000/title=?`
+* year: `localhost:5000/year=?`
+* director's full/partial name: `localhost:5000/director=?`
+* IMDB rating: `localhost:5000/rating>=?`
 
 ### TODOs:
 As of 4/5/18:
