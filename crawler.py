@@ -9,9 +9,9 @@ def create_csv():
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         # scrape page 1-20
-        pages = [str(i) for i in range(1, 21)]
+        pages = [i for i in range(0, 20)]
         for page in pages:
-            url = 'http://www.imdb.com/search/title?groups=top_1000&sort=user_rating&view=simple&page=' + page
+            url = 'https://www.imdb.com/search/title/?groups=top_1000&view=simple&sort=user_rating,desc&start=' + str(page*50)
             response = get(url)
             # create BeautifulSoup object
             html_soup = BeautifulSoup(response.text, 'html.parser')
