@@ -7,17 +7,23 @@
             <tr>
                 <th>Title</th>
                 <th>Year</th>
+                <th>Duration</th>
+                <th>Genre</th>
+                <th>IMDB Rating</th>
+                <th>Metascore Rating</th>
                 <th>Director</th>
                 <th>Cast</th>
-                <th>IMDB Rating</th>
             </tr>
             {% for obj in object_list %}
             <tr>
                 <td>{{ obj.title }}</td>
                 <td>{{ obj.year }}</td>
+                <td>{{ obj.duration }}</td>
+                <td>{{ obj.genre }}</td>
+                <td>{{ obj.imdb_rating }}</td>
+                <td>{{ obj.metascore_rating }}</td>
                 <td>{{ obj.director }}</td>
                 <td>{{ obj.cast }}</td>
-                <td>{{ obj.imdb_rating }}</td>
             </tr>
             {% endfor %}
         </table>
