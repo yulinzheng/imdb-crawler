@@ -1,6 +1,6 @@
 from requests import get
 from bs4 import BeautifulSoup
-import csv, sqlite3, re
+import csv
 
 def create_csv():
     with open('top_1000.csv', 'w') as csvfile:
@@ -9,7 +9,7 @@ def create_csv():
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
         # scrape page 1-20
-        pages = [i for i in range(0, 1)]
+        pages = [i for i in range(0, 20)]
         for page in pages:
             url = 'https://www.imdb.com/search/title/?groups=top_1000&view=advanced&sort=user_rating,desc&start=' + str(page*50)
             response = get(url)
@@ -34,16 +34,6 @@ def create_csv():
                 writer.writerow({'title': title, 'year': year, 'duration': duration, 'genre': genre, 'imdb_rating': imdb_rating, 'metascore_rating': metascore_rating, 'director': director, 'cast': cast})
 
 
-def create_db():
-    create_csv()
-    conn = sqlite3.connect('top_1000.db')
-    c = conn.cursor()
-    c.execute('CREATE TABLE top_1000 (title, year, duration, genre, imdb_rating, metascore_rating, director, cast);')
-    with open('top_1000.csv', 'r') as csv_file:
-        dr = csv.DictReader(csv_file)
-        to_db = [(i['title'], i['year'], i['duration'], i['genre'], i['imdb_rating'], i['metascore_rating'], i['director'], i['cast']) for i in dr]
-    c.executemany('INSERT INTO top_1000 (title, year, duration, genre, imdb_rating, metascore_rating, director, cast) VALUES (?, ?, ?, ?, ?, ?, ?, ?);', to_db)
-    conn.commit()
-    conn.close()
 
-create_db()
+if __name__ == "__main__":
+    create_csv()
